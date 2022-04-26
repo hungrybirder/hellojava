@@ -8,6 +8,5 @@ public class HelloTest {
   @Test
   public void testCool() {
     Assert.assertEquals("cool", Hello.cool());
-    Assert.assertEquals("cool", Hello.cool());
   }
 }
